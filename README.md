@@ -73,6 +73,10 @@ How to Use
    - Relevant Chunks (direct document matches)
    - LLM Response (context-aware explanation)
 4. Explore document relationships in the graph view.
+
+Contact
+
+If you have any questions about this project, feel free to contact Peixin<peixin@pavilions.ai> and Ziyue<ziyueyin7@gmail.com>
    
 ## Upload Package to Your Enrollment
 

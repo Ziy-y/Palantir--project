@@ -76,7 +76,7 @@ How to Use
 
 Contact
 
-If you have any questions about this project, feel free to contact Peixin<peixin@pavilions.ai> and Ziyue<ziyueyin7@gmail.com>
+If you have any questions about this project, feel free to contact Peixin <peixin@pavilions.ai> and Ziyue <ziyueyin7@gmail.com>
    
 ## Upload Package to Your Enrollment
 
